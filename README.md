@@ -1,16 +1,9 @@
-# tourist_guide
+# Tourist_Guide
 
-A new Flutter application.
+Tourist Guide Flutter application.
 
-## Getting Started
+![smartmockups_ktvf6h13](https://user-images.githubusercontent.com/80541747/169585013-db68f7d4-992b-49f5-9e7e-0faca12b6e19.jpg)
 
-This project is a starting point for a Flutter application.
+![smartmockups_ktvf6qoz](https://user-images.githubusercontent.com/80541747/169585073-476be00e-37ed-4a8d-b969-f1b1cd19dbae.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
